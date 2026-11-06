@@ -1,3 +1,4 @@
+//Nguyễn Phạm Hoàng Khôi - 25810088
 fun main() {
     val soLuong: Int = 5
     val donGia: Double = 10000.0
