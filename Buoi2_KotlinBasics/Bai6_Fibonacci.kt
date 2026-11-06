@@ -1,3 +1,4 @@
+//Nguyễn Phạm Hoàng Khôi - 25810088
 fun main() {
     var soTruoc: Int = 0
     var soHienTai: Int = 1
