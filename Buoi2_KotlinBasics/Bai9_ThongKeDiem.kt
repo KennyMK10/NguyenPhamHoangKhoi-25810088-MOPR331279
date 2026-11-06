@@ -1,3 +1,4 @@
+//Nguyễn Phạm Hoàng Khôi - 25810088
 fun main() {
     val diem = arrayOf(
         8.5, 7.0, 9.0, 6.5, 8.0,
