@@ -1,3 +1,4 @@
+//Nguyễn Phạm Hoàng Khôi - 25810088
 fun main() {
     val hoTen: String = "Nguyễn Phạm Hoàng Khôi"
     val namSinh: Int = 2005
