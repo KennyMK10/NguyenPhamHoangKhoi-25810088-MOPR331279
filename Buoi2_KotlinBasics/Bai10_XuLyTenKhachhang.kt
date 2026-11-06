@@ -1,3 +1,4 @@
+//Nguyễn Phạm Hoàng Khôi - 25810088
 fun xuLyTenKhachHang(tenKhachHang: String?) {
 
     val doDai: Int? = tenKhachHang?.length
